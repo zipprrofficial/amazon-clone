@@ -1,4 +1,4 @@
-An amazon clone is a pre-built ecommerce solution that provides similar functionalities to the online retail giant Amazon. It allows users to quickly build an online marketplace/store without developing the platform from scratch.
+An <a href="https://zipprr.com/category/amazon-clone/"> Amazon clone script</a> is a pre-built e-commerce solution that provides similar functionalities to the online retail giant Amazon. It allows users to quickly build an online marketplace/store without developing the platform from scratch.
 
 <h2><b>Key Features of an Amazon Clone</b></h2>
 
